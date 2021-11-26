@@ -1,3 +1,3 @@
-module github.com/danstis/gotemplate
+module github.com/danstis/go-apt-token
 
-go 1.14
+go 1.17

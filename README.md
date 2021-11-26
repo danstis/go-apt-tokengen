@@ -1,9 +1,9 @@
-# gotemplate
+# go-apt-token
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/danstis/gotemplate)
-[![Go Report Card](https://goreportcard.com/badge/github.com/danstis/gotemplate?style=flat-square)](https://goreportcard.com/report/github.com/danstis/gotemplate)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/danstis/gotemplate)](https://pkg.go.dev/github.com/danstis/gotemplate)
-[![Release](https://img.shields.io/github/release/danstis/gotemplate.svg?style=flat-square)](https://github.com/danstis/gotemplate/releases/latest)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/danstis/go-apt-token)
+[![Go Report Card](https://goreportcard.com/badge/github.com/danstis/go-apt-token?style=flat-square)](https://goreportcard.com/report/github.com/danstis/go-apt-token)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/danstis/go-apt-token)](https://pkg.go.dev/github.com/danstis/go-apt-token)
+[![Release](https://img.shields.io/github/release/danstis/go-apt-token.svg?style=flat-square)](https://github.com/danstis/go-apt-token/releases/latest)
 
 My base repo template for Go projects.
 
